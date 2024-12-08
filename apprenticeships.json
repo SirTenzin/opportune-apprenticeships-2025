@@ -1,5 +1,19 @@
 { 
   "apprenticeships": [
-    { "title": "Audit Apprenticeship Programme – Northern Ireland – September 2025 intake", "company": "Ernst and Young", "location": [54.594958, -5.931240] }
+    { "title": "L7 Artificial Intelligence Apprentice", "company": "Amazon", "location": [51.5219391, -0.0795798] },
+    { "title": "L4 DevOps Engineer", "company": "Amazon", "location": [51.5219391, -0.0795798], "apply": "https://amazonapprenticeships.co.uk/our-programmes" },
+    { "title": "L3 Information Communications Technician (ICT) Apprentice", "company": "Amazon", "location": [51.5219391, -0.0795798], "apply": "https://amazonapprenticeships.co.uk/our-programmes" },
+    { "title": "L6 Software Development Engineer (England)", "company": "Amazon", "location": [51.5219391, -0.0795798], "apply": "https://amazonapprenticeships.co.uk/our-programmes" },
+    { "title": "L6 Solutions Architect", "company": "Amazon", "location": [51.5219391, -0.0795798], "apply": "https://amazonapprenticeships.co.uk/our-programmes" },
+    { "title": "L6 User Experience (UX) Design", "company": "Amazon", "location": [51.5219391, -0.0795798], "apply": "https://amazonapprenticeships.co.uk/our-programmes" },
+    { "title": "L6 Cyber Security", "company": "Amazon", "location": [51.5219391, -0.0795798], "apply": "https://amazonapprenticeships.co.uk/our-programmes" },
+    { "title": "L3 Business Administrator", "company": "Amazon", "location": [51.5219391, -0.0795798], "apply": "https://amazonapprenticeships.co.uk/our-programmes" },
+    { "title": "L4 Digital Product Manager", "company": "Amazon", "location": [51.5219391, -0.0795798], "apply": "https://amazonapprenticeships.co.uk/our-programmes" },
+    { "title": "L3 Events Assistant Apprentice", "company": "Amazon", "location": [51.5219391, -0.0795798], "apply": "https://amazonapprenticeships.co.uk/our-programmes" },
+    { "title": "L3 HR Consultant Apprentice", "company": "Amazon", "location": [51.5219391, -0.0795798], "apply": "https://amazonapprenticeships.co.uk/our-programmes" },
+    { "title": "L5 Learning and Development (L&D) Business Partner", "company": "Amazon", "location": [51.5219391, -0.0795798], "apply": "https://amazonapprenticeships.co.uk/our-programmes" },
+    { "title": "L6 Project Management", "company": "Amazon", "location": [51.5219391, -0.0795798], "apply": "https://amazonapprenticeships.co.uk/our-programmes" },
+    { "title": "L3 Recruitment Consultant", "company": "Amazon", "location": [51.5219391, -0.0795798], "apply": "https://amazonapprenticeships.co.uk/our-programmes" },
+    { "title": "L4 Corporate Responsibility and Sustainability", "company": "Amazon", "location": [51.5219391, -0.0795798], "apply": "https://amazonapprenticeships.co.uk/our-programmes" }  
   ]
 }
