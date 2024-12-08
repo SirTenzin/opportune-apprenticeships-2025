@@ -1,28 +1,237 @@
-{ 
-  "apprenticeships": [
-    { "title": "L7 Artificial Intelligence Apprentice", "company": "Amazon", "location": [51.5219391, -0.0795798] },
-    { "title": "L4 DevOps Engineer", "company": "Amazon", "location": [51.5219391, -0.0795798], "apply": "https://amazonapprenticeships.co.uk/our-programmes" },
-    { "title": "L3 Information Communications Technician (ICT) Apprentice", "company": "Amazon", "location": [51.5219391, -0.0795798], "apply": "https://amazonapprenticeships.co.uk/our-programmes" },
-    { "title": "L6 Software Development Engineer (England)", "company": "Amazon", "location": [51.5219391, -0.0795798], "apply": "https://amazonapprenticeships.co.uk/our-programmes" },
-    { "title": "L6 Solutions Architect", "company": "Amazon", "location": [51.5219391, -0.0795798], "apply": "https://amazonapprenticeships.co.uk/our-programmes" },
-    { "title": "L6 User Experience (UX) Design", "company": "Amazon", "location": [51.5219391, -0.0795798], "apply": "https://amazonapprenticeships.co.uk/our-programmes" },
-    { "title": "L6 Cyber Security", "company": "Amazon", "location": [51.5219391, -0.0795798], "apply": "https://amazonapprenticeships.co.uk/our-programmes" },
-    { "title": "L3 Business Administrator", "company": "Amazon", "location": [51.5219391, -0.0795798], "apply": "https://amazonapprenticeships.co.uk/our-programmes" },
-    { "title": "L4 Digital Product Manager", "company": "Amazon", "location": [51.5219391, -0.0795798], "apply": "https://amazonapprenticeships.co.uk/our-programmes" },
-    { "title": "L3 Events Assistant Apprentice", "company": "Amazon", "location": [51.5219391, -0.0795798], "apply": "https://amazonapprenticeships.co.uk/our-programmes" },
-    { "title": "L3 HR Consultant Apprentice", "company": "Amazon", "location": [51.5219391, -0.0795798], "apply": "https://amazonapprenticeships.co.uk/our-programmes" },
-    { "title": "L5 Learning and Development (L&D) Business Partner", "company": "Amazon", "location": [51.5219391, -0.0795798], "apply": "https://amazonapprenticeships.co.uk/our-programmes" },
-    { "title": "L6 Project Management", "company": "Amazon", "location": [51.5219391, -0.0795798], "apply": "https://amazonapprenticeships.co.uk/our-programmes" },
-    { "title": "L3 Recruitment Consultant", "company": "Amazon", "location": [51.5219391, -0.0795798], "apply": "https://amazonapprenticeships.co.uk/our-programmes" },
-    { "title": "L4 Corporate Responsibility and Sustainability", "company": "Amazon", "location": [51.5219391, -0.0795798], "apply": "https://amazonapprenticeships.co.uk/our-programmes" },
-    { "title": "L4 Chartered Town Planner", "company": "Arup", "location": [51.5219283, -0.1371064508103179], "apply": "https://careers.arup.com/earlycareers/vacancy/apprenticeship-opportunities---level-4---london-5061/5087/description/" },
-    { "title": "L3 Pensions Administration - Redhill", "company": "WTW", "location": [51.24049500647242, -0.17253608250962635], "apply": "https://careers.wtwco.com/jobs/2025-level-3-pensions-administration-apprenticeship-programme-redhill-redhill-england-united-kingdom" }, 
-    { "title": "L3 Pensions Administration - Welyn Garden City", "company": "WTW", "location": [51.808365108157695, -0.1992130834763734], "apply": "https://careers.wtwco.com/jobs/2025-level-3-pensions-administration-apprenticeship-programme-welwyn-garden-city-welwyn-garden-city-england-united-kingdom" },
-    { "title": "Digital & Technology Solutions - Software Specialism Level 6 Apprentice - Manchester", "company": "British Telecom", "location": [53.48044168003284, -2.2480524661346064], "apply": "https://jobs.bt.com/BTGroup/job/Deansgate-Digital-&-Technology-Solutions-Software-Specialism-Level-6-Apprentice-Manchester-Manc/808928202/" }
-      
-
-
-
-
-]
+{
+    "apprenticeships": [
+        {
+            "title": "L7 Artificial Intelligence Apprentice",
+            "company": "Amazon",
+            "location": [
+                51.5219391,
+                -0.0795798
+            ]
+        },
+        {
+            "title": "L4 DevOps Engineer",
+            "company": "Amazon",
+            "location": [
+                51.5219391,
+                -0.0795798
+            ],
+            "apply": "https://amazonapprenticeships.co.uk/our-programmes"
+        },
+        {
+            "title": "L3 Information Communications Technician (ICT) Apprentice",
+            "company": "Amazon",
+            "location": [
+                51.5219391,
+                -0.0795798
+            ],
+            "apply": "https://amazonapprenticeships.co.uk/our-programmes"
+        },
+        {
+            "title": "L6 Software Development Engineer (England)",
+            "company": "Amazon",
+            "location": [
+                51.5219391,
+                -0.0795798
+            ],
+            "apply": "https://amazonapprenticeships.co.uk/our-programmes"
+        },
+        {
+            "title": "L6 Solutions Architect",
+            "company": "Amazon",
+            "location": [
+                51.5219391,
+                -0.0795798
+            ],
+            "apply": "https://amazonapprenticeships.co.uk/our-programmes"
+        },
+        {
+            "title": "L6 User Experience (UX) Design",
+            "company": "Amazon",
+            "location": [
+                51.5219391,
+                -0.0795798
+            ],
+            "apply": "https://amazonapprenticeships.co.uk/our-programmes"
+        },
+        {
+            "title": "L6 Cyber Security",
+            "company": "Amazon",
+            "location": [
+                51.5219391,
+                -0.0795798
+            ],
+            "apply": "https://amazonapprenticeships.co.uk/our-programmes"
+        },
+        {
+            "title": "L3 Business Administrator",
+            "company": "Amazon",
+            "location": [
+                51.5219391,
+                -0.0795798
+            ],
+            "apply": "https://amazonapprenticeships.co.uk/our-programmes"
+        },
+        {
+            "title": "L4 Digital Product Manager",
+            "company": "Amazon",
+            "location": [
+                51.5219391,
+                -0.0795798
+            ],
+            "apply": "https://amazonapprenticeships.co.uk/our-programmes"
+        },
+        {
+            "title": "L3 Events Assistant Apprentice",
+            "company": "Amazon",
+            "location": [
+                51.5219391,
+                -0.0795798
+            ],
+            "apply": "https://amazonapprenticeships.co.uk/our-programmes"
+        },
+        {
+            "title": "L3 HR Consultant Apprentice",
+            "company": "Amazon",
+            "location": [
+                51.5219391,
+                -0.0795798
+            ],
+            "apply": "https://amazonapprenticeships.co.uk/our-programmes"
+        },
+        {
+            "title": "L5 Learning and Development (L&D) Business Partner",
+            "company": "Amazon",
+            "location": [
+                51.5219391,
+                -0.0795798
+            ],
+            "apply": "https://amazonapprenticeships.co.uk/our-programmes"
+        },
+        {
+            "title": "L6 Project Management",
+            "company": "Amazon",
+            "location": [
+                51.5219391,
+                -0.0795798
+            ],
+            "apply": "https://amazonapprenticeships.co.uk/our-programmes"
+        },
+        {
+            "title": "L3 Recruitment Consultant",
+            "company": "Amazon",
+            "location": [
+                51.5219391,
+                -0.0795798
+            ],
+            "apply": "https://amazonapprenticeships.co.uk/our-programmes"
+        },
+        {
+            "title": "L4 Corporate Responsibility and Sustainability",
+            "company": "Amazon",
+            "location": [
+                51.5219391,
+                -0.0795798
+            ],
+            "apply": "https://amazonapprenticeships.co.uk/our-programmes"
+        },
+        {
+            "title": "L4 Chartered Town Planner",
+            "company": "Arup",
+            "location": [
+                51.5219283,
+                -0.1371064508103179
+            ],
+            "apply": "https://careers.arup.com/earlycareers/vacancy/apprenticeship-opportunities---level-4---london-5061/5087/description/"
+        },
+        {
+            "title": "L3 Pensions Administration - Redhill",
+            "company": "WTW",
+            "location": [
+                51.24049500647242,
+                -0.17253608250962635
+            ],
+            "apply": "https://careers.wtwco.com/jobs/2025-level-3-pensions-administration-apprenticeship-programme-redhill-redhill-england-united-kingdom"
+        },
+        {
+            "title": "L3 Pensions Administration - Welyn Garden City",
+            "company": "WTW",
+            "location": [
+                51.808365108157695,
+                -0.1992130834763734
+            ],
+            "apply": "https://careers.wtwco.com/jobs/2025-level-3-pensions-administration-apprenticeship-programme-welwyn-garden-city-welwyn-garden-city-england-united-kingdom"
+        },
+        {
+            "title": "Digital & Technology Solutions - Software Specialism Level 6 Apprentice - Manchester",
+            "company": "British Telecom",
+            "location": [
+                53.48044168003284,
+                -2.2480524661346064
+            ],
+            "apply": "https://jobs.bt.com/BTGroup/job/Deansgate-Digital-&-Technology-Solutions-Software-Specialism-Level-6-Apprentice-Manchester-Manc/808928202/"
+        },
+        {
+            "title": "Digital & Technology Solutions - Software Specialism Level 6 Apprentice - London",
+            "company": "British Telecom",
+            "location": [
+                51.51496413757127,
+                -0.07187451251643348
+            ],
+            "apply": "https://jobs.bt.com/BTGroup/job/London-Digital-&-Technology-Solutions-Software-Specialism-Level-6-Apprentice-London-Lond/808964402/"
+        },
+        {
+            "title": "Audit Apprenticeship (AAT + ACA)",
+            "company": "KPMG",
+            "location": [
+                51.505167349357265,
+                -0.016440263854410123
+            ],
+            "apply": "https://student.kpmgcareers.co.uk/apprentices2025/Login.aspx?intake_year=2025&programme=Apprenticeships&business_area=Audit%20-%20Apprenticeship&location=London&start_date=Autumn"
+        },
+        {
+            "title": "L7 Solicitor Degree Apprenticeship",
+            "company": "White & Case LLP",
+            "location": [
+                51.51476593321145,
+                -0.08551159743282301
+            ],
+            "apply": "https://www.whitecase.com/careers/locations/uk/early-careers/our-offer/solicitor-apprenticeships"
+        },
+        {
+            "title": "L7 Solicitor Degree Apprenticeship",
+            "company": "Travers Smith LLP",
+            "location": [
+                51.51752634516926,
+                -0.10327620197382881
+            ],
+            "apply": "https://www.traverssmith.com/join-us/solicitor-apprentice-programme/"
+        },
+        {
+            "title": "L7 Solicitor Degree Apprenticeship",
+            "company": "Baker McKenzie LLP",
+            "location": [
+                51.51992333503371,
+                -0.07847114615183358
+            ],
+            "apply": "https://www.whitecase.com/careers/locations/uk/early-careers/our-offer/solicitor-apprenticeships"
+        },
+        {
+            "title": "L7 Solicitor Degree Apprenticeship",
+            "company": "A&O Shearman",
+            "location": [
+                51.519940266662104,
+                -0.07693394430243097
+            ],
+            "apply": "https://earlycareersuk.aoshearman.com/solicitor-apprenticeships"
+        },
+        {
+            "title": "L7 Solicitor Degree Apprenticeship",
+            "company": "Mishcon de Raya",
+            "location": [
+                51.5171350735304,
+                -0.11955928400836281
+            ],
+            "apply": "https://fsr.cvmailuk.com/mishcon/main.cfm?page=jobSpecific&jobId=73723&rcd=613409&queryString=srxksl%3D1&srxksl=1"
+        }
+    ]
 }
