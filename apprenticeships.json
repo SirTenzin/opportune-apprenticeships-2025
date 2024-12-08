@@ -1,5 +1,5 @@
 { 
-  apprenticeships: [
+  "apprenticeships": [
     { title: 'Audit Apprenticeship Programme – Northern Ireland – September 2025 intake', company: 'Ernst and Young', location: [54.594958, -5.931240] },
   ]
 }
